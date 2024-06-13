@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -a | sed '/^\.\.$/d; /^\.$/d' | sed -E 's/$/,/' | sort -k1.1,1.1d -k1.2,1.2d -t/ | sed 's/\//\//g' | tr -d '\n' && echo
+ls -a  sed '/^\.\.$/d; /^\.$/d' sed -E 's/$/,/'  sort -k1.1,1.1d -k1.2,1.2d -t/  sed 's/\//\//g'  tr -d '\n'  echo
