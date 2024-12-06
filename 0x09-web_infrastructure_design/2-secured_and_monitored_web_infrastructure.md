@@ -1,6 +1,6 @@
 Secured and Monitored Web Infrastructure
 
-
+[Visit Link](https://github.com/Mimo-oo/alx-system_engineering-devops/blob/master/0x09-web_infrastructure_design/2-secured_and_monitored_web_infrastructure.png)
 
 Description
 This is a 3-server web infrastructure that is secured, monitored, and serves encrypted traffic.
