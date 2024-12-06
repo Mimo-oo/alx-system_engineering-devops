@@ -3,7 +3,7 @@
 [View File](https://github.com/Mimo-oo/alx-system_engineering-devops/blob/master/0x09-web_infrastructure_design/0-simple_web_stack.png)
 
 # Description  
-This is a simple web infrastructure that hosts a website that is reachable via www.foobar.com. There are no firewalls or SSL certificates for protecting the server's network. Each component (database, application server) has to share the resources (CPU, RAM, and SSD) provided by the server.
+This is a simple web infrastructure that hosts a website that is reachable via www.footer.com. There are no firewalls or SSL certificates for protecting the server's network. Each component (database, application server) has to share the resources (CPU, RAM, and SSD) provided by the server.
 
 Specifics About This Infrastructure  
 What a server is.  
