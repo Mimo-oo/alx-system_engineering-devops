@@ -5,15 +5,15 @@
 # Description  
 This is a simple web infrastructure that hosts a website that is reachable via www.foobar.com. There are no firewalls or SSL certificates for protecting the server's network. Each component (database, application server) has to share the resources (CPU, RAM, and SSD) provided by the server.
 
-Specifics About This Infrastructure
-What a server is.
+Specifics About This Infrastructure  
+What a server is.  
 A server is a computer hardware or software that provides services to other computers, which are usually referred to as clients.
 
-The role of the domain name.
+The role of the domain name.  
 To provide a human-friendly alias for an IP Address. For example, the domain name www.wikipedia.org is easier to recognize and remember than 91.198.174.192. The IP address and domain name alias is mapped in the Domain Name System (DNS)
 
-The type of DNS record www is in www.foobar.com.
-www.foobar.com uses an A record. This can be checked by running dig www.foobar.com.
+The type of DNS record www is in www.footer.com.  
+ www.footer.com. uses an A record. This can be checked by running dig  www.footer.com.
 Note: the results might be different but for the infrastructure in this design, an A record is used.
 Address Mapping record (A Record)—also known as a DNS host record, stores a hostname and its corresponding IPv4 address.
 
