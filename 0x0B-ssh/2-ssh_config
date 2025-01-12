@@ -1,0 +1,7 @@
+# SSH client configuration for passwordless authentication
+
+SendEnv LANG LC_*
+HashKnownHosts yes
+GSSAPIAuthentication yes
+PasswordAuthentication no
+IdentityFile ~/.ssh/holberton
