@@ -1,4 +1,11 @@
-Postmortem: Web Application Downtime Due to Misconfigured Load Balancer
+
+
+![pQ9YzVY](https://github.com/user-attachments/assets/df666d8b-ce2b-4b80-8dbe-d7f1805aee21)
+
+
+
+
+# Postmortem: Web Application Downtime Due to Misconfigured Load Balancer
 Issue Summary
 Duration: February 20, 2025, 2:00PM - February 3, 2025, 3:30 PM (1 hour, 30 minutes)
 Impact: I experienced slow load times and at one point I was unable to access the application. API requests resulted in 503 errors, and the website intermittently became unresponsive.
